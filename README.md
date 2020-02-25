@@ -1,3 +1,7 @@
+## Description
+This is the second proyect made on Wild Code School. This is a dating basic application made with React and based on fetching an API to generate the (fake) users.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
